@@ -17,7 +17,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Traveler712&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Traveler712&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
+***
+<p align="center"> 
+   <img src="https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif"  alt=""/>
+</p>
 
 
 
